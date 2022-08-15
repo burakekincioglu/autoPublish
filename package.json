@@ -1,0 +1,15 @@
+{
+  "name": "autopublish",
+  "version": "1.0.0",
+  "description": "publishing npm package automatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "release-it": "^15.3.0"
+  }
+}
